@@ -1,14 +1,14 @@
 main:  
-  - identifier: books
+  - identifier: Books
     name: Books
     url: /book/
     weight: 10
   - identifier: writing
-    name: Writing
+    name: Writings
     url: /writing/
     weight: 20
   - identifier: media
-    name: Media
+    name: Interviews & Readings
     url: /media/
     weight: 30
   - identifier: news
