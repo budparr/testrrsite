@@ -26,3 +26,5 @@ Her New York City design office is complemented by a nearby showroom for the [Bu
 Registration is required for this Zoom webinar. Tickets are $25 per device.
 
 Link to register and purchase tickets: [https://us02web.zoom.us/webinar/register/WN_zNO5hmbUTzSi-hciMiKUmQ](https://us02web.zoom.us/webinar/register/WN_zNO5hmbUTzSi-hciMiKUmQ "https://us02web.zoom.us/webinar/register/WN_zNO5hmbUTzSi-hciMiKUmQ")
+
+![](/uploads/bunny-roxana-flip-horizontal-flat.jpg)
