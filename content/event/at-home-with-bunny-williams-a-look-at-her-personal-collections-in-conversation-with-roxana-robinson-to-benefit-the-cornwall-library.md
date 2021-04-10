@@ -11,7 +11,6 @@ venue:
   state: CT
   zip: ''
   link: https://cornwalllibrary.org/at-home-with-bunny-williams-a-look-at-her-personal-collections/
-draft: true
 
 ---
 The Cornwall Library is delighted to announce a benefit event at the home of our neighbors, legendary Interior designer [Bunny Williams](https://bunnywilliams.com/), and her husband, antiques dealer [John Rosselli](https://www.johnrosselli.com/). Ms. Williams will discuss some favorite pieces from their personal collection with their friend, author and professor Roxana Robinson. The event will be held on Zoom but will be live from Ms. Williams and Mr. Rosselli’s home in Falls Village.
