@@ -10,7 +10,7 @@ venue:
   city: Madrid
   state: SPAIN
   zip: "28014"
-  link: 'https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe '
+  link: https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe
 draft: true
 
 ---
