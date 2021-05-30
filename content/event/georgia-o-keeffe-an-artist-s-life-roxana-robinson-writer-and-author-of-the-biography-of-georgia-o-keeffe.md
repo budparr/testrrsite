@@ -13,7 +13,7 @@ venue:
   link: https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe
 
 ---
-In connection with the _Georgia O’Keeffe_ exhibition, the Thyssen-Bornemisza Museo Nacional in Madrid has organized a series of lectures designed to take a closer look at this great American modern artist.
+In connection with the _Georgia O’Keeffe_ exhibition, the Thyssen-Bornemisza Museo Nacional in Madrid has organized a series of lectures (viewable on Zoom) designed to take a closer look at this great American modern artist.
 
 To purchase a ticket for Roxana's lecture, please click here: [https://entradas.museothyssen.org/en/241-actividades/3707-ciclo-de-conferencias-online-georgia-okeeffe/info](https://entradas.museothyssen.org/en/241-actividades/3707-ciclo-de-conferencias-online-georgia-okeeffe/info "https://entradas.museothyssen.org/en/241-actividades/3707-ciclo-de-conferencias-online-georgia-okeeffe/info")
 
