@@ -11,7 +11,6 @@ venue:
   state: SPAIN
   zip: "28014"
   link: https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe
-draft: true
 
 ---
 In connection with the _Georgia O’Keeffe_ exhibition, the Thyssen-Bornemisza Museo Nacional in Madrid has organized a series of lectures designed to take a closer look at this great American modern artist.
