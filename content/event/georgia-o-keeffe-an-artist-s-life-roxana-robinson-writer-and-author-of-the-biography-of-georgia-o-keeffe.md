@@ -19,4 +19,6 @@ To purchase a ticket, please click here: [https://entradas.museothyssen.org/en/2
 
 The series consists of a total of six lectures. Three are by renowned American specialists Cody Hartley (Director at Georgia O’Keeffe Museum, Santa Fe), Roxana Robinson (writer and artist’s biographer) and Wanda Corn (American art and cultural historian). The rest are delivered by members of the team at the museum: Marta Ruiz del Árbol (exhibition curator), Clara Marcellán (technical curator), and Susana Pérez and Marta Palao (conservators), who discuss their research on O’Keeffe and her presence in Thyssen-Bornemisza collection.
 
-Roxana's lecture will be on Wednesday, June 2, 2021 at 11:30am EST
+Roxana's lecture will be on Wednesday, June 2, 2021 at 11:30am EST. 
+
+For information about all the lectures, please click here: [https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe](https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe "https://www.museothyssen.org/en/activities/lecture-series-georgia-okeeffe")
