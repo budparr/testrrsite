@@ -8,8 +8,8 @@ image:
   file: "/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg"
 weight: 
 images:
-- file: "/uploads/roxana-by-lazlo-dscf9747.jpg"
-  credit: Portrait by Lazlo Gyorsok
+- file: ''
+  credit: ''
   caption: ''
 - file: ''
   credit: ''
