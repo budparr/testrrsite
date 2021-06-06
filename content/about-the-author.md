@@ -9,7 +9,7 @@ image:
 weight: 
 images:
 - file: "/uploads/roxana-by-lazlo-dscf9747.jpg"
-  credit: ''
+  credit: Portrait by Lazlo Gyorsok
   caption: ''
 - file: ''
   credit: ''
