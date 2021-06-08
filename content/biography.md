@@ -17,4 +17,3 @@ Her novel, _Sparta_, won the Maine Fiction Award, the James Webb Award from the 
 
 Roxana Robinson has received fellowships from the NEA, the MacDowell Colony and the Guggenheim Foundation, and she was named a Literary Lion by the New York Public Library. Robinson has served on the Boards of PEN and the Authors Guild, and was the president of the Authors Guild from 2013-2017. In 2019 she received the Barnes and Noble “Writers for Writers Award,” given by Poets and Writers.
 
-![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg)
