@@ -4,6 +4,7 @@ published: true
 class: about-the-author
 description: The official website of author Roxana Robinson, president of the Authors
   Guild
+draft: true
 
 ---
 ![](/uploads/Roxana-ROBINSON-14-c-David-Ignaszewski-koboy_LG.jpg) Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
@@ -15,3 +16,5 @@ Her novel, _Cost,_ won the Maine Writers and Publishers Alliance Fiction Award f
 Her novel, _Sparta_, won the Maine Fiction Award, the James Webb Award from the USMCHF, was named one of the Ten Best Books of the Year by the BBC, and was short-listed for the Dublin Impac Award.
 
 Roxana Robinson has received fellowships from the NEA, the MacDowell Colony and the Guggenheim Foundation, and she was named a Literary Lion by the New York Public Library. Robinson has served on the Boards of PEN and the Authors Guild, and was the president of the Authors Guild from 2013-2017. In 2019 she received the Barnes and Noble “Writers for Writers Award,” given by Poets and Writers.
+
+![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg)
