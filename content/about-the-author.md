@@ -44,4 +44,4 @@ _Author photo by Beowulf Sheehan_
 
 </div>
 
-![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg)
+![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg "Roxana by Lazlo Gyorsok")
