@@ -38,6 +38,7 @@ _Author photo by Beowulf Sheehan_
 <div class="images">
 
 <a href="/uploads/cover-dawsons-fall-large.jpg"><img src="/uploads/9780374135218.jpg" title="Dawson's Fall Cover"></a>
+  
 <a href="/uploads/Roxana-Robinson-by-Beowulf-Sheehan-large.jpg"><img src="/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg" title="Roxana Robinson, by Beowulf Sheehan"></a>
 
 <a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by Lazlo Gyorsok"></a>
