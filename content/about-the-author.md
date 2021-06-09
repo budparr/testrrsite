@@ -39,6 +39,6 @@ _Author photo by Beowulf Sheehan_
 
 </div>
 
-<a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by La_zlo Gyorsok"></a>
+<a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by Lazlo Gyorsok"></a>
 
 </div>
