@@ -14,7 +14,7 @@ images:
 draft: true
 
 ---
-![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg)![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg)Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
+![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg)Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
 
 Her fiction has appeared in _The New Yorker, The Atlantic, Harper’s, Best American Short Stories, Tin House_ and elsewhere. Her work has been widely anthologized and broadcast on NPR. Her books have been published in England, France, Germany, Holland and Spain.
 
@@ -44,3 +44,5 @@ _Author photo by Beowulf Sheehan_
 <a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by Lazlo Gyorsok"></a>
 
 </div>
+
+![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg)
