@@ -7,10 +7,7 @@ description: The official website of author Roxana Robinson, president of the Au
 image:
   file: "/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg"
 weight: 
-images:
-- file: ''
-  credit: ''
-  caption: ''
+images: []
 
 ---
 ![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg)Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
@@ -39,9 +36,5 @@ _Author photo by Beowulf Sheehan_
 
 <a href="/uploads/cover-dawsons-fall-large.jpg"><img src="/uploads/9780374135218.jpg" title="Dawson's Fall Cover"></a>
 <a href="/uploads/Roxana-Robinson-by-Beowulf-Sheehan-large.jpg"><img src="/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg" title="Roxana Robinson, by Beowulf Sheehan"></a>
-
-</div>
-
-<a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by La_zlo Gyorsok"></a>
 
 </div>
