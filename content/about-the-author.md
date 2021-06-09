@@ -7,8 +7,10 @@ description: The official website of author Roxana Robinson, president of the Au
 image:
   file: "/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg"
 weight: 
-images: []
-draft: true
+images:
+- file: "/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"
+  credit: Lazlo Gyorsok
+  caption: 'Roxana in her garden '
 
 ---
 ![](/uploads/Roxana-Robinson-by-Beowulf-Sheehan.jpg)Roxana Robinson is the author of ten books - six novels, three collections of short stories, and the biography of Georgia O’Keeffe. Four of these were chosen as _New York Times Notable Books ,_ two as _New York Times_ Editors’ Choices.
