@@ -43,5 +43,5 @@ _Author photo by Beowulf Sheehan_
 <a href="/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg"><img src="/uploads/roxana-by-lazlo-dscf974_1-12x8-300-hi-res.jpg" title="Roxana Robinson, by Lazlo Gyorsok"></a>
 
 </div>
-
+_Photo of Roxana in her garden by Lazlo Gyorsok_
 ![](/uploads/roxana-by-lazlo-dscf9747_1-12x8-300-hi-res.jpg "Roxana by Lazlo Gyorsok")
